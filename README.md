@@ -1,2 +1,1 @@
-# dsa-lab-record
-dsa lab record
+# DSA-LAB-RECORD
